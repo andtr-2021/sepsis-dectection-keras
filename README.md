@@ -1,7 +1,7 @@
 
 ### Project Information:
 * **Project Name**: Sepsis Detection
-* **Libraries Used**: tensorflow, pandas, numpy, matplotlib, seaborn, sklearn, imblearn
+* **Libraries Used**: pandas, numpy, matplotlib, seaborn, sklearn, imblearn
 
 ### Project Summary and Model Evaluation
 
